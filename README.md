@@ -17,8 +17,8 @@ The script processes the Titanic dataset by handling missing values, encoding ca
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/titanic-survival-prediction.git
-   cd titanic-survival-prediction
+   git clone https://github.com/NishitSinha/TITANIC-MACHINE-LEARNING-FROM-DISASTER.git
+   cd titanic-mechine-learning-from-disaster
    ```
 
 2. Install the required Python packages:
