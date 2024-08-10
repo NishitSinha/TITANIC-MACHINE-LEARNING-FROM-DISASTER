@@ -53,10 +53,6 @@ pip install pandas numpy matplotlib xgboost scikit-learn tabulate
 
 The model predictions are saved to `resultfile.csv`, which contains the survival predictions for each passenger in the test dataset.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 - [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) - The dataset used for this project.
